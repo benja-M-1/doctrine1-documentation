@@ -333,7 +333,7 @@ Other Tips
         $role = new Role();
         $role->name = 'New Role Name';
 
-        $user->Roles[] = $newRole;
+        $user->Roles[] = $role;
 
     .. caution::
 
